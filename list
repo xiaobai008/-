@@ -1,0 +1,24 @@
+metasploitHelper                   nmap + metasploit，自动选择某服务对应的msf模块
+sshuttle                           简单的SSH透明代理服务器
+Brutex                             结合了Nmap，Hydra和DNSenum，可以自动化暴力破解
+Scanners-Box                       安全行业从业者自研开源扫描器合辑
+rtrouton_scripts                   一些shell脚本
+AutoSploit                         漏洞利用自动化
+VulApps                            快速搭建各种漏洞环境
+cheetah                            快速的webshell暴力破解工具
+Pupy                               Python的远控
+Ares                               Python的远控
+msf-remote-console                 利用msfrpc远程控制msfconsole
+patator                            Python的暴力破解/枚举工具
+Reptile                            LKM Linux rootkit
+rootkit                            简单的Linux内核rootkit
+Python-Rootkit                     自称很牛逼的rootkit，可以反向连接metasploit
+WindowsRegistryRootkit             windows注册表rootkit
+brootkit                           由bash shell脚本v0.10实现的轻量级rootkit
+RootKits-List-Download             rootkit列表
+Powershell-RAT                     Python的后门，用邮件传输信息
+BlackHole                          C＃ RAT（远程管理工具）
+basicRAT                           只有基本功能的RAT，可以基于其创建新的RAT
+PlasmaRAT                          一款VB写的RAT
+loginform                          自动填写HTML登录表单
+wordlist                           常用字典和默认密码
