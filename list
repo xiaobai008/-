@@ -1,3 +1,4 @@
+AngelSword                         CMS漏洞检测工具
 metasploitHelper                   nmap + metasploit，自动选择某服务对应的msf模块
 sshuttle                           简单的SSH透明代理服务器
 Brutex                             结合了Nmap，Hydra和DNSenum，可以自动化暴力破解
