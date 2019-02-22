@@ -9,7 +9,7 @@ rtrouton_scripts                   一些shell脚本
 AutoSploit                         漏洞利用自动化
 VulApps                            快速搭建各种漏洞环境
 cheetah                            快速的webshell暴力破解工具
-Pupy                               Python的远控
+Pupy                               Python的远控（有限考虑的远控）
 Ares                               Python的远控
 msf-remote-console                 利用msfrpc远程控制msfconsole
 patator                            Python的暴力破解/枚举工具
