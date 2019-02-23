@@ -3,6 +3,7 @@ jsprime                            前端JS代码审计
 AngelSword                         CMS漏洞检测工具
 metasploitHelper                   nmap + metasploit，自动选择某服务对应的msf模块
 sshuttle                           简单的SSH透明代理服务器
+koadic                             rootkit python写的
 Brutex                             结合了Nmap，Hydra和DNSenum，可以自动化暴力破解
 Scanners-Box                       安全行业从业者自研开源扫描器合辑
 rtrouton_scripts                   一些shell脚本
