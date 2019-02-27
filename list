@@ -26,3 +26,17 @@ basicRAT                           只有基本功能的RAT，可以基于其创
 PlasmaRAT                          一款VB写的RAT
 loginform                          自动填写HTML登录表单
 wordlist                           常用字典和默认密码
+
+
+
+渗透资源集合
+K8tools              K8工具（内网渗透/提权工具/远程溢出/漏洞利用/漏洞利用/ APT /0天/的Shellcode /有效载荷/特权/上溢/ WebShell的/ PenTest）
+penetration          渗透 超全面的渗透资料💯 包含：0day，xss，sql注入，提权……
+tools                Python渗透漏洞工具
+pentest-tools        内网渗透的一些工具
+VulScritp            内网渗透脚本
+pentest_study        从零开始内网渗透学习
+tools                渗透所用小工具以及poc
+Tools                渗透测试的一些工具
+Intranet-Penetration 内网渗透必备工具。
+learn-hacking        开始学习Kali Linux 各种破解教程 渗透测试 逆向工程 HackThisSite挑战问题解答
