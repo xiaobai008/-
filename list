@@ -26,8 +26,9 @@ basicRAT                           只有基本功能的RAT，可以基于其创
 PlasmaRAT                          一款VB写的RAT
 loginform                          自动填写HTML登录表单
 wordlist                           常用字典和默认密码
-
-
+pythem                             python写的渗透测试框架
+awesome-pentest                    渗透测试资源集、工具集
+pentest
 
 渗透资源集合
 K8tools              K8工具（内网渗透/提权工具/远程溢出/漏洞利用/漏洞利用/ APT /0天/的Shellcode /有效载荷/特权/上溢/ WebShell的/ PenTest）
